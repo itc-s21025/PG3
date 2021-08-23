@@ -1,0 +1,7 @@
+# Mac
+.DS_Store
+# windows
+Thimbs.db
+
+# JupterNotebook
+.ipynb_checkpoints/
